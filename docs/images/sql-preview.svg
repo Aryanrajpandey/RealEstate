@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="SQL Preview">
+  <rect width="1280" height="720" fill="#0b1220"/>
+  <rect x="60" y="60" width="1160" height="600" rx="16" fill="#0d1117" stroke="#2d3f5f"/>
+  <text x="95" y="110" fill="#ff7b72" font-family="Courier New, monospace" font-size="28">CREATE TABLE properties (</text>
+  <text x="95" y="160" fill="#79c0ff" font-family="Courier New, monospace" font-size="24">property_id INT AUTO_INCREMENT PRIMARY KEY,</text>
+  <text x="95" y="210" fill="#79c0ff" font-family="Courier New, monospace" font-size="24">title VARCHAR(200) NOT NULL,</text>
+  <text x="95" y="260" fill="#79c0ff" font-family="Courier New, monospace" font-size="24">price DECIMAL(14,2) CHECK (price &gt;= 0),</text>
+  <text x="95" y="310" fill="#79c0ff" font-family="Courier New, monospace" font-size="24">...</text>
+  <text x="95" y="360" fill="#ff7b72" font-family="Courier New, monospace" font-size="24">);</text>
+  <text x="95" y="430" fill="#8b949e" font-family="Courier New, monospace" font-size="22">Preview illustration for README</text>
+</svg>

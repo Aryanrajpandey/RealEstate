@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-label="Dashboard Preview">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0e1a"/>
+      <stop offset="100%" stop-color="#1b2640"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect x="40" y="40" width="220" height="640" rx="16" fill="#111827" stroke="#24314b"/>
+  <rect x="290" y="40" width="950" height="80" rx="14" fill="#151d2e" stroke="#24314b"/>
+  <rect x="290" y="140" width="225" height="120" rx="12" fill="#151d2e" stroke="#2d3f5f"/>
+  <rect x="530" y="140" width="225" height="120" rx="12" fill="#151d2e" stroke="#2d3f5f"/>
+  <rect x="770" y="140" width="225" height="120" rx="12" fill="#151d2e" stroke="#2d3f5f"/>
+  <rect x="1010" y="140" width="230" height="120" rx="12" fill="#151d2e" stroke="#2d3f5f"/>
+  <rect x="290" y="280" width="620" height="380" rx="14" fill="#151d2e" stroke="#2d3f5f"/>
+  <rect x="930" y="280" width="310" height="180" rx="14" fill="#151d2e" stroke="#2d3f5f"/>
+  <rect x="930" y="480" width="310" height="180" rx="14" fill="#151d2e" stroke="#2d3f5f"/>
+  <text x="300" y="88" fill="#f1f5f9" font-family="Arial, sans-serif" font-size="30" font-weight="700">Real Estate Management Dashboard</text>
+  <text x="300" y="112" fill="#94a3b8" font-family="Arial, sans-serif" font-size="16">Preview illustration for README</text>
+</svg>
